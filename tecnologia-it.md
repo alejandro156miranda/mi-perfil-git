@@ -19,3 +19,5 @@ y los comandos básicos de la terminal de Linux.
 
 Un entorno con Docker Compose que levante mi sistema de biblioteca digital
 (aplicación web y base de datos) con un solo comando.
+
+Recurso de estudio: documentación oficial de Docker (docs.docker.com).
