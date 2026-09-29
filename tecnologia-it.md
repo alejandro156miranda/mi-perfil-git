@@ -14,3 +14,8 @@ que piden en casi cualquier equipo de desarrollo de software.
 
 Los conceptos de imagen y contenedor, escribir un Dockerfile sencillo,
 y los comandos básicos de la terminal de Linux.
+
+## ¿Qué me gustaría construir con ella?
+
+Un entorno con Docker Compose que levante mi sistema de biblioteca digital
+(aplicación web y base de datos) con un solo comando.
