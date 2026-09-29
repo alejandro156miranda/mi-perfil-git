@@ -9,3 +9,8 @@ Docker es una plataforma que permite empaquetar una aplicación con todo lo que 
 
 Porque elimina el problema de "en mi máquina sí funciona" y hoy es una herramienta
 que piden en casi cualquier equipo de desarrollo de software.
+
+## ¿Qué necesito aprender primero?
+
+Los conceptos de imagen y contenedor, escribir un Dockerfile sencillo,
+y los comandos básicos de la terminal de Linux.
